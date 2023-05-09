@@ -1,6 +1,6 @@
 ## BLOG POST ASSIGNMENT 
 
-# BLOG TOPIC : Dark Web and Cyber Security: New Trends to Keep an Eye on
+# BLOG TOPIC : Dark Web and Cyber Security: New Trends to Keep an Eye on 
 
 # I've Made This Blog Using Wordpress 
 
